@@ -1,0 +1,1 @@
+Painting with normal DC.

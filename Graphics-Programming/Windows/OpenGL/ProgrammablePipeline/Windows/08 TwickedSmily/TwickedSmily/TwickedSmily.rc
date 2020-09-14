@@ -1,0 +1,3 @@
+#include "TwickedSmily.h"
+
+ID_BITMAP_SMILY		BITMAP 		smily.bmp

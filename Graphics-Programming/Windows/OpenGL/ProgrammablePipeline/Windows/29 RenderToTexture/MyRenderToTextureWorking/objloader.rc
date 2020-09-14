@@ -1,0 +1,4 @@
+#include "uf/resource.h"
+
+ID_BITMAP_MARBLE		BITMAP		".\MEDIA\images\marble.bmp"
+

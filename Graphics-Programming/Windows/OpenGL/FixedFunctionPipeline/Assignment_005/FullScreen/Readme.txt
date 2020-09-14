@@ -1,0 +1,1 @@
+Full Screen window by using GetWindowPlacement which will be used in overall OpenGL.

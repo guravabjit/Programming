@@ -1,0 +1,1 @@
+Full screen window on WM_CHAR.

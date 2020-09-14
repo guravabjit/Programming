@@ -1,0 +1,5 @@
+#include "SolarSystem.h"
+
+ID_BITMAP_SUN		BITMAP		sun.bmp
+ID_BITMAP_EARTH		BITMAP		earth.bmp
+ID_BITMAP_MOON		BITMAP		moon.bmp

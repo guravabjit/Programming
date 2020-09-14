@@ -1,0 +1,4 @@
+#include "3DWithTexture.h"
+
+ID_BITMAP_PYRAMID		BITMAP		stone.bmp
+ID_BITMAP_CUBE			BITMAP		kundali.bmp

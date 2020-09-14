@@ -1,0 +1,30 @@
+Log file created.
+D3D11CreateDeviceAndSwapChain()  success.
+The chosen friver is of Hardware type.
+The supported highest feature level is 11.0
+D3DCompile() Succeeded For Vertex Shader.
+ ID3D11Device::CreateVertexShader() Succeeded. 
+ D3DCompile() Succeeded For Hull Shader.
+ID3D11Device::CreateHullShader() Succeeded.
+D3DCompile() Succeeded For Domain Shader.
+ID3D11Device::CreateDomainShader() Succeeded.
+D3DCompile() Succeeded For Pixel Shader.
+ ID3D11Device::CreatePixelShader() Succeeded.
+ ID3D11Device::CreateInputLayout() Succeeded.
+ID3D11Device::CreateBuffer() Succeeded For Vertex Buffer.
+ID3D11Device::CreateInputLayout() Succeeded For Constant Buffer For Hull Shader.
+ID3D11Device::CreateInputLayout() Succeeded For Constant Buffer For Domain Shader.
+ID3D11Device::CreateInputLayout() Succeeded For Constant Buffer For Pixel Shader.
+ID3D11Device::CreateRasterizerState() Succeeded For Culling.
+gpID3D11Device->CreateRenderTargetView()  success.
+resize()  success.
+initialize() success.
+gpID3D11Device->CreateRenderTargetView()  success.
+resize()  success.
+gpID3D11Device->CreateRenderTargetView()  success.
+resize()  success.
+gpID3D11Device->CreateRenderTargetView()  success.
+resize()  success.
+uninitialize() succeeded.
+ Log file is closed.uninitialize() succeeded.
+ Log file is closed.

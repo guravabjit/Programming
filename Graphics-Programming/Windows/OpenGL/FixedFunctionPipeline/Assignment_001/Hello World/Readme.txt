@@ -1,0 +1,1 @@
+Console hello world application.
